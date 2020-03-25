@@ -25,7 +25,7 @@ for i=1:length(arr)
 end
 for i=i:length(arr)
     if temparr(i)>1
-       threatenOrNot==1
+       threatenOrNot=1
        break;
     end
 end
